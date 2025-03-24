@@ -3,7 +3,7 @@ import streamlit as st
 import os
 
 # Load data  
-path = 'data/'
+path = 'files/'
 
 ### table structure
 def pivot_info(report_title):
